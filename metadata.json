@@ -1,0 +1,8 @@
+{
+  "name": "Audit Operations Center (AOC) v1.2",
+  "description": "A high-density Palantir-style command center for audit operations, featuring AI-powered gap analysis, sampling engines, and risk management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
